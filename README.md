@@ -1,4 +1,4 @@
-![2022-10-13](https://user-images.githubusercontent.com/108576677/195556001-c7d91617-279b-40f4-8c0c-7617d6531366.png)
+
 # To-do-list-project.
  a to do list using HTML , CSS , JAVASCRIPT.  
 I have made a to do list using HTML , CSS , JAVASCRIPT.
@@ -6,3 +6,9 @@ where user can add important things , there is option to mark completed and ther
 user can not click on add without entering any note.
 else they will get an error.
 I have used CSS animation div tags and images/ colors to make it attractive and html and javascript as well.
+
+
+
+
+
+![2022-10-13](https://user-images.githubusercontent.com/108576677/195556001-c7d91617-279b-40f4-8c0c-7617d6531366.png)
